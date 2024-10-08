@@ -28,12 +28,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented required features:
 
-
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphZmQ5YnUzamgxZHc2NTlzcjNmNDBuNDFod2lzcW5nY3ZrYmhnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFFE6fsxafhttRzfDp/giphy.gif"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Quicktime Player, Imgplay, and Giphy...  
+GIF created with Quicktime Player, Giphy, and ImgPlay
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
