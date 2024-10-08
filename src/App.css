@@ -1,0 +1,77 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(59, 34, 40);
+  margin: 1px;
+}
+
+h2 {
+  color: rgb(125, 55, 70);
+}
+
+.cardContainer {
+  border: 1px solid #ccc;
+  text-align: center;
+  cursor: pointer;
+  height: 300px;
+  width: 550px;
+  background-color: white;
+  color: black;
+  vertical-align: middle;
+  align-items: center;
+  border-width: 10px;
+  border-radius: 15px;
+  ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-shadow: 10px 10px rgb(125, 55, 70);;
+}
+
+.button {
+  width: 100px;
+  background-color: #d36475d9;
+}
+
+.submitButton {
+  background-color: rgb(125, 55, 70);
+}
+
+.questionImage {
+  height: 200px;
+}
+
+body {
+  background-color: rgb(245, 211, 211);
+  background-image: url(https://img.freepik.com/free-vector/flat-abstract-doodle-background_23-2149336501.jpg?t=st=1727887524~exp=1727891124~hmac=b4dafde92472cf80b941541c0f05daaa556481a1b427c7bf9289939f0b9abb75&w=1480);
+
+}
+
+#easy {
+  border-color: #91be52d9
+}
+
+#medium {
+  border-color: #fdc14ad9
+}
+
+#hard {
+  border-color: #d36475d9
+}
+
+p {
+  color: rgb(125, 55, 70);
+  font-size: 20px;
+}
+
+input{
+  height: 30px;
+  width: 30%;
+}

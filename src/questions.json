@@ -1,0 +1,83 @@
+[
+    {
+        "question": "The fear of cats is known as ______.",
+        "answer": "Ailurophobia",
+        "difficulty": "hard"
+    },
+    {
+        "question": "How many toes does a cat have?",
+        "answer": "18",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What breed is this?",
+        "answer": "Russian Blue",
+        "difficulty": "easy",
+        "image": "https://www.purina.co.uk/sites/default/files/2021-02/CAT%20HERO_0020_Russian_blue.jpg"
+    },
+    {
+        "question": "A cat can’t taste _____ flavors.",
+        "answer": "Sweet",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What breed is this?",
+        "answer": "Egyptian Mau",
+        "difficulty": "hard",
+        "image": "https://www.petplan.co.uk/images/breeds/egyptian-mau.png"
+    },
+    {
+        "question": "True or False: The average cat can spend two-thirds of its life sleeping.",
+        "answer": "True",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Which ancient Egyptian goddess is often depicted with a lion or cat head?",
+        "answer": "Bastet",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What is the largest breed of cat?",
+        "answer": "Maine Coon",
+        "difficulty": "easy"
+    },
+    {
+        "question": "What breed of cat has no tail?",
+        "answer": "Manx",
+        "difficulty": "easy",
+        "image": "https://www.purina.co.uk/sites/default/files/2022-06/Manx.jpg?itok=LTf59Q7C"
+    },
+    {
+        "question": "What breed is this?",
+        "answer": "Abyssinian",
+        "difficulty": "medium",
+        "image": "https://basepaws.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fqj2yxv39d6ig%2F3JWnPdH4DDMjDjSWctrmCr%2Fa5d5fdfe152baab7d4f4210581185db8%2Fabyssinian-cat__1_.jpg&w=1080&q=75"
+    },
+    {
+        "question": "What city was the iconic mascot Hello Kitty born in (not where she was created, which was Japan)?",
+        "answer": "London, England",
+        "difficulty": "hard",
+        "image": "https://www.anbmedia.com/wp-content/uploads/2022/06/Hello-Kitty.png"
+    },
+    {
+        "question": "Which former president had a cat named “Socks” in the White House?",
+        "answer": "Bill Clinton",
+        "difficulty": "medium"
+    },
+    {
+        "question": "What color are kittens’ eyes when they are born?",
+        "answer": "Blue",
+        "difficulty": "hard"
+    },
+    {
+        "question": "A group of cats is called a _______.",
+        "answer": "Clowder",
+        "difficulty": "hard",
+        "image": "https://meowkai.com/wp-content/uploads/2021/02/groups-of-cats.jpg"
+    },
+    {
+        "question": "The first cat ever launched into space was named _______",
+        "answer": "Félicette",
+        "difficulty": "hard"
+    }
+]
